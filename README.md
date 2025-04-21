@@ -10,7 +10,7 @@ Ein einfacher Farbpaletten-Generator, der dir zufällige Farben für dein Design
 
 ## 🛠️ Installation & Nutzung
 
-1. **Repo klonen**:
+1. **Repository klonen**:
    ```bash
    git clone https://github.com/fambosyt/color-palette-generator.git
    cd color-palette-generator
